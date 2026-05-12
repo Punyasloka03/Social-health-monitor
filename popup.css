@@ -1,0 +1,15 @@
+body {
+  width: 300px;
+  padding: 10px;
+  font-family: Arial;
+}
+
+.box {
+  border: 1px solid gray;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px;
+}
